@@ -2,3 +2,5 @@ streamlit
 phidata
 openai
 yfinance
+git+https://github.com/openai/swarm.git
+duckduckgo-search
